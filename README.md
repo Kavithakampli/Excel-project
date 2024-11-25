@@ -1,4 +1,4 @@
-# Excel-project
+Recommended Analyasis:
 Compare the sales and orders using single chart
 Which month got the highest sales and orders?
  Who purchased more- men or women in 2022?
